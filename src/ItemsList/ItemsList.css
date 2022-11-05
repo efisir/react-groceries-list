@@ -1,0 +1,29 @@
+.shop-list{
+   
+    display: flex;
+    justify-content: center;
+    margin: 2rem 0;
+}
+
+.shop-list ul {
+    padding: 0;
+    list-style-type: none;
+    width: 70%;
+    
+    
+
+}
+
+.list-title {
+    font-weight: bolder;
+    font-size: larger;
+    margin: 2REM 0 ;
+}
+
+.list-error {
+    color: red;
+    font-weight: bolder;
+    font-size: larger;
+    display: flex;
+    justify-content: center;
+}
